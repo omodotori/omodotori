@@ -54,8 +54,9 @@ I'm **Amina**, a Web & Mobile Developer.
 ## 📊 GitHub Stats & Badges
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilrein&show_icons=true&theme=react&hide_border=true&title_color=3382ed&icon_color=3382ed&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilrein&layout=compact&theme=react&hide_border=true&title_color=3382ed&text_color=ffffff&bg_color=0d1117" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hilrein&show_icons=true&theme=react&hide_border=true&title_color=dee2e6&icon_color=dee2e6&text_color=dee2e6&bg_color=0d1117" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilrein&layout=compact&theme=react&hide_border=true&title_color=dee2e6&text_color=dee2e6&bg_color=0d1117" alt="Top Languages" height="180"/>
 </p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.co)]()
